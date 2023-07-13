@@ -1,5 +1,7 @@
 # TodoMVC Example
 
+[Originally hosted in the MobX-State-Tree monorepo](https://github.com/mobxjs/mobx-state-tree/tree/master/packages/mst-example-todomvc), pulled at [this commit](https://github.com/mobxjs/mobx-state-tree/commit/9fb09972b5836a72cec851c737bf7345dafcef7b).
+
 This project template was built with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## Available Scripts
